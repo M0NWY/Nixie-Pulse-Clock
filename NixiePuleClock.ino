@@ -21,8 +21,8 @@ by noiasca
 //#include <credentials.h>           // you could use a dedicated credentials.h file for your WIFI Password
 
 #ifndef STASSID
-#define STASSID "The Tubes"          // set your SSID
-#define STAPSK "feedmedeadbeef"       // set your wifi password
+#define STASSID "<YOUR SSID>"          // set your SSID
+#define STAPSK "<YOUR WIFI PASSWORD>"       // set your wifi password
 #endif
 
 /* Configuration of NTP */
